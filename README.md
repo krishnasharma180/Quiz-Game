@@ -5,11 +5,11 @@ A fun and interactive **Squid Game**-themed quiz built using **Python** and **Tk
 ---
 
 ## ✨ Features
-✅ Multiple-choice questions based on **Squid Game**
-✅ Engaging visuals with images from the series
-✅ Audio effects and background music for an immersive experience
-✅ Score tracking with a dynamic progress bar
-✅ Interactive GUI using **Tkinter**
+✅ Multiple-choice questions based on **Squid Game**.
+✅ Engaging visuals with images from the series.
+✅ Audio effects and background music for an immersive experience.
+✅ Score tracking with a dynamic progress bar.
+✅ Interactive GUI using **Tkinter**.
 
 ---
 
