@@ -1,62 +1,64 @@
-# 🦑 Squid Game - Python Quiz
+# 🦑 Squid Game - Python Quiz  
 
-A fun and interactive **Squid Game**-themed quiz built using **Python** and **Tkinter**! Test your knowledge of the hit series and see if you can survive the quiz. 🎯
-
----
-
-## ✨ Features
-✅ Multiple-choice questions based on **Squid Game**.
-✅ Engaging visuals with images from the series.
-✅ Audio effects and background music for an immersive experience.
-✅ Score tracking with a dynamic progress bar.
-✅ Interactive GUI using **Tkinter**.
+A thrilling **Squid Game**-themed quiz built with **Python** and **Tkinter**! Test your knowledge of the hit Netflix series and see if you can survive the ultimate challenge. 🎯  
 
 ---
 
-## 📥 Installation
-1. **Download** the installer from the release section.
-2. **Run** the installer and follow the on-screen instructions.
-3. **Launch** the game and start playing!
-
-*(Alternatively, if running from source:)*
-- Ensure you have Python installed.
-- Install required libraries using:
-  ```sh
-  pip install pygame pillow tkinter
-  ```
-- Run the script:
-  ```sh
-  python quiz.py
-  ```
+## ✨ Features  
+✅ **Multiple-choice questions** based on Squid Game trivia  
+✅ **Engaging visuals** with images from the series  
+✅ **Immersive audio effects** and background music  
+✅ **Score tracking** with a progress bar  
+✅ **Interactive GUI** using Tkinter  
 
 ---
 
-## 🎮 How to Play
-🎯 Answer the multiple-choice questions based on **Squid Game** trivia.
-🎮 Click on your chosen answer to proceed.
-⏳ Use **Next** and **Prev** buttons to navigate questions.
-🏆 Click **Submit** at the end to see your score and results!
+## 📥 Installation  
+
+### 🔹 Using the Installer (Recommended)  
+1. **Download** the installer from the Release section.  
+2. **Run** the installer and follow the on-screen instructions.  
+3. Once installed, **launch the game** from the desktop shortcut or Start menu.  
+
+### 🔹 Running from Source  
+If you prefer to run the game from the source code:  
+1. Make sure **Python** is installed on your system.  
+2. Install the required dependencies using:  
+   ```sh
+   pip install pygame pillow tkinter
+   ```  
+3. Run the script:  
+   ```sh
+   python quiz.py
+   ```  
 
 ---
 
-## 🎵 Sound & Visuals
-🔊 Background music and sound effects for an immersive quiz experience.
-🖼️ Images displayed for each question to enhance engagement.
+## 🎮 How to Play  
+🎯 Answer **multiple-choice** questions about Squid Game.  
+🎮 Click on your chosen answer to proceed.  
+⏳ Use **Next** and **Prev** buttons to navigate between questions.  
+🏆 Click **Submit** at the end to see your score!  
 
 ---
 
-## 🛠️ Technologies Used
-- **Python** for logic and functionality
-- **Tkinter** for GUI
-- **Pygame** for audio effects
-- **Pillow (PIL)** for image handling
+## 🎵 Sound & Visuals  
+🔊 **Background music** and sound effects for an immersive experience.  
+🖼️ **Themed images** displayed for each question.  
 
 ---
 
-## 👏 Credits
-🚀 Developed using **Python & Tkinter**
-🎬 Inspired by the **Squid Game** series
-🎵 Sound effects and images enhance the gameplay experience
+## 🛠️ Technologies Used  
+- **Python** – Game logic and functionality  
+- **Tkinter** – Graphical User Interface  
+- **Pygame** – Sound effects and background music  
+- **Pillow (PIL)** – Image processing  
 
-Enjoy the game and test your Squid Game knowledge! 🕹️🔥
+---
 
+## 👏 Credits  
+🚀 Developed using **Python & Tkinter**  
+🎬 Inspired by the **Squid Game** series  
+🎵 Sound effects and images enhance the gameplay experience  
+
+Enjoy the game and test your Squid Game knowledge! 🕹️🔥  
