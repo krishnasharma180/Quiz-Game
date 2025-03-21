@@ -21,7 +21,7 @@ A thrilling **Squid Game**-themed quiz built with **Python** and **Tkinter**! Te
 3. Once installed, **launch the game** from the desktop shortcut or Start menu.
 4. Download the installer by clicking the button below:
 
-[![Download](https://img.shields.io/badge/Download-Inno%20Setup-blue?style=for-the-badge)](https://github.com/username/repo-name/releases/download/v1.0/installer.exe)
+[![Download](https://github.com/krishna180/Quiz-Game/releases/download/v1.0/installer.exe)
 
 
 ### 🔹 Running from Source  
